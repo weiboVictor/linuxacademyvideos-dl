@@ -1,2 +1,2 @@
 # linuxacademyvideos-dl
-download linuxacademy videos with python (using selenium and wget)
+download linuxacademy videos with python (using selenium and wget).
